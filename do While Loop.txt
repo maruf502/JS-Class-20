@@ -1,0 +1,7 @@
+    JS-Class-20.
+
+
+    Javascript 
+
+
+    // JavaScript Do While Loop .
